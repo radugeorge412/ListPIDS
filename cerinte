@@ -1,0 +1,4 @@
+ Implementati o functie sistem care s˘a ofere date (PID, stare,
+statistici legate de execut, ie etc.) despre toti descendent, ii unui proces dat (ˆın ordine
+DFS). Scrieti programe ˆın userland care s˘a afiseze arborii rezultati folosind noua functie
+de sistem
